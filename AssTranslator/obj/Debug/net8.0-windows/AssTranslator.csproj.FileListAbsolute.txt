@@ -1,0 +1,15 @@
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\bin\Debug\net8.0-windows\AssTranslator.exe
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\bin\Debug\net8.0-windows\AssTranslator.deps.json
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\bin\Debug\net8.0-windows\AssTranslator.runtimeconfig.json
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\bin\Debug\net8.0-windows\AssTranslator.dll
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\bin\Debug\net8.0-windows\AssTranslator.pdb
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.AssemblyInfoInputs.cache
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.AssemblyInfo.cs
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.csproj.CoreCompileInputs.cache
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.sourcelink.json
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.dll
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\refint\AssTranslator.dll
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.pdb
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\AssTranslator.genruntimeconfig.cache
+C:\Users\huhum\Documents\GitHub\subTranslation\AssTranslator\obj\Debug\net8.0-windows\ref\AssTranslator.dll
